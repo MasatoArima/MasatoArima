@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasatoArima&theme=dracula)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasatoArima&theme=dracula&layout=compact)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasatoArima&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasatoArima&theme=dracula&layout=compact)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MasatoArima&repo=RadiationTherapyApplication)](https://github.com/MasatoArima/RadiationTherapyApplication)
 
