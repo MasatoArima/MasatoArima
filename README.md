@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasatoArima&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MasatoArima)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasatoArima)](https://github.com/anuraghazra/github-readme-stats)
+
